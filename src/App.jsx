@@ -10,7 +10,7 @@ import "react-toastify/dist/ReactToastify.css";
 
 function App() {
   const [quote, setQuote] = useState();
-  const [favirotes, setFavirotes] = useState(["no quote"]);
+  const [favirotes, setFavirotes] = useState(["No Favirotes Added"]);
   const [favirotesMenu, setFavirotesMenu] = useState(false);
 
 
