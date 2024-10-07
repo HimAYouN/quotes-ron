@@ -81,7 +81,7 @@ const deleteFavorite = (index) => {
 
   return (
     <>
-      <div className='shadow-md shadow-black rounded-lg p-10 backdrop-blur-md'>
+      <div className='shadow-md shadow-black rounded-lg p-10 backdrop-blur-md mt-20'>
           <p>{quote}</p>
       </div>
       <div className='m-5 flex justify-center gap-7 '>
